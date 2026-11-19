@@ -1,0 +1,5 @@
+  [1;33m⚠️  fetch 실패/시간초과: fatal: unable to access 'https://github.com/gotree94/qwen3_tts.git/': Empty reply from server[0m
+  Branch: main
+  [1;33m로컬 변경사항 발견 → stash 후 Pull, 병합 후 Push[0m
+  [0;32mℹ️  병합 후 변경 없음[0m
+  [0;32m✅ Push 완료[0m
